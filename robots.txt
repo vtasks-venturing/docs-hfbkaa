@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-crevx0.privatetalks.online/sitemap.xml
